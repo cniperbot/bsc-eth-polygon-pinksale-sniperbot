@@ -41,6 +41,8 @@ We offer the **best support** you will ever experience
 * Lifetime support at Discord
 * Private Discord channels with our admins and other bot owners to talk about snipe targets and how to deal with them
 
+**Proof snipe** for PulsePad (made easy **x50**): https://www.bscscan.com/tx/0x70b647e49d2aca6bdf667e93d4247eb4a34b20ba0df82b67c8dc631fc56d3918
+
 **Join us!**
 
 Website: https://www.cniper.xyz<br />
