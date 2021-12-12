@@ -41,9 +41,11 @@ We offer the **best support** you will ever experience
 * Lifetime support at Discord
 * Private Discord channels with our admins and other bot owners to talk about snipe targets and how to deal with them
 
-Website: https://www.cniper.xyz
-Discord: https://discord.gg/2JpbHYkqzy
-Telegram: https://t.me/thecniperbot
+**Join us!**
+
+Website: https://www.cniper.xyz<br />
+Discord: https://discord.gg/2JpbHYkqzy<br />
+Telegram: https://t.me/thecniperbot<br />
 
 **Video demo**
 [![Cniper video demo](https://user-images.githubusercontent.com/96018038/145722500-53f18bf4-ba4d-4525-96ea-6c21c2984105.png)](https://www.youtube.com/watch?v=wVBoqnkCXyk)
