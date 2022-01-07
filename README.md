@@ -6,6 +6,9 @@
 * Uniswap (Ethereum (ETH))
 * Sushiswap (Polygon (MATIC))
 * Quickswap (Polygon (MATIC))
+* Trader Joe (Avalanche (AVAX))
+* Pangolin (Avalanche (AVAX))
+* Spookyswap (Fantom(FTM))
 
 **Including a mempool sniper for the fastest snipes that can deal with the following signals:**
 
@@ -23,11 +26,15 @@
 * USDT
 * USDC
 * MATIC
+* AVAX
+* FTM
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
 
 **Automatic sell** based on a user **configured profit target** (2x, 10x, …)
+
+**Automatically take profit** and** stop loss**
 
 **Counter anti-bot features**
 
