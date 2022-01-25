@@ -3,6 +3,7 @@
 ![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2022/01/Cniper-GUI-v1.4.5.png "sniper bot interface")
 
 * Pancakeswap (Binance Smart Chain (BSC))
+* PYEswap (Binance Smart Chain (BSC))
 * Uniswap (Ethereum (ETH))
 * Sushiswap (Polygon (MATIC))
 * Quickswap (Polygon (MATIC))
@@ -28,6 +29,7 @@
 * MATIC
 * AVAX
 * FTM
+* PYE
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
@@ -41,7 +43,7 @@ A **telegram scanner** to automatically get a fairlaunch token contract and imme
 * Configurable block delay before buying
 * Configurable seconds delay before buying
 
-Including a presale sniper bot for the fastest snipes on Pinksale presales.
+Including a presale sniper bot for the fastest snipes on Moonforce and Pinksale presales.
 
 We offer the **best support** you will ever experience
 * Updates (We respond fast, after a bug is reported)
